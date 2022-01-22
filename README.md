@@ -21,7 +21,7 @@ __РАБОТАЮ С ТЗ И БЕЗ. СРОКИ И ЦЕНА БЕЗ ТЗ БУДЕ�
 1. __[ГУИ/CЕРВЕР]__ (1.7.10) ReportSystem, отправка фидбека и жалоб в дискорд <br>
 ![alt text](screenshots/reportsystem.png "ReportSystem")
 2. __[ГУИ/КЛИЕНТ]__ (1.7.10) MainMenuGameOfTrones, изменённые дефолтные гуи майнкрафта.
-![alt text](screenshots/MainMenuGameOfTrones.jpg "GuiMainMenu")
+![alt text](screenshots/MainMenuGameOfTrones.png "GuiMainMenu")
 3. __[АДДОН/СЕРВЕР]__ (1.7.10) DraconicSkin, мод-аддон для Draconic Evolution. Реализовано: изменения модельки для Посоха. <br>
 ![alt text](screenshots/DraconicSkin.png "DraconicSkin")
 4. __[ГУИ/CЕРВЕР]__ (1.7.10) Skillmenu, мод который добавляет прокачку скилов. <br>
