@@ -27,7 +27,7 @@ __РАБОТАЮ С ТЗ И БЕЗ. СРОКИ И ЦЕНА БЕЗ ТЗ БУДЕ�
 ![alt text](screenshots/reportsystem.png "ReportSystem")
 4. __[ГУИ/КЛИЕНТ]__ (1.7.10) Главное меню/Esc меню, изменённые дефолтные гуи майнкрафта.
 ![alt text](screenshots/MainMenuGameOfTrones.png "v1")
-![alt text](screenshots/dayzmenu "v2")
+![alt text](screenshots/dayzmenu.png "v2")
 ![alt text](screenshots/mainmenu_ala.png "v3")
 ![alt text](screenshots/escmenuala.png "v4")
 5. __[АДДОН/СЕРВЕР]__ (1.7.10) DraconicSkin, мод-аддон для Draconic Evolution. Реализовано: изменения модельки для Посоха. <br>
